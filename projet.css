@@ -1,0 +1,321 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(38, 76, 115);
+    position: relative;
+}
+
+.div12 .p12 {
+    margin-left: 300px;
+    font-size: 40px;
+    font-family: serif;
+    color: rgb(227, 11, 11);
+}
+
+.Aa {
+    margin-left: 300px;
+    color: rgb(27, 27, 177);
+}
+
+.menu .H a {
+    position: absolute;
+    list-style: none;
+    margin-left: 200px;
+    top: 130px;
+    text-decoration: none;
+    color: red;
+}
+
+.menu .F a {
+    position: absolute;
+    margin-left: 600px;
+    top: 130px;
+    list-style: none;
+    text-decoration: none;
+    color: red;
+}
+
+.menu .B a {
+    position: absolute;
+    margin-left: 1000px;
+    top: 130px;
+    list-style: none;
+    text-decoration: none;
+    color: red;
+}
+
+.div1 p {
+    top: 40px;
+    margin-left: 80px;
+    color: #123;
+}
+
+.front img {
+    width: 100%;
+    height: 800px;
+    position: static;
+}
+
+#g {
+    position: absolute;
+    margin-bottom: 40px;
+}
+
+#para {
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.livraison .par1 {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.par1 {
+    color: bisque;
+}
+
+.livraison .par1 a {
+    text-decoration: none;
+
+}
+
+.deplacement {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.deplacement .par2 {
+    color: bisque;
+}
+
+.livraison .par1 a:hover {
+    color: blue;
+}
+
+.livraison .par1 a:active {
+    background-color: yellow;
+}
+
+.info {
+    display: flex;
+    background-color: whitesmoke;
+    position: relative;
+    font-family: serif;
+    margin-top: 40px;
+    gap: 50px;
+    width: 1256px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.par3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.par4 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.paiment {
+    display: flex;
+}
+
+.paiment .par5 {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.lienCIH {
+    margin-top: 80px;
+}
+
+.paiment .par5 a .CIH {
+
+    width: 20px;
+    height: 20px;
+}
+
+.par6 {
+
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.lienCashPlus {
+    margin-top: 80px;
+}
+
+.paiment .par5 a .CashPlus {
+
+    width: 20px;
+    height: 20px;
+}
+
+.cartebonneur {
+    margin-top: 30px;
+}
+
+.carte .buttonCarte .creationCarte {
+    text-decoration: none;
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    margin-top: 70px;
+}
+
+.reduction {
+    display: flex;
+    gap: 100px;
+}
+
+.reduction p {
+    margin-left: 20px;
+    margin-top: 100px;
+    color: white;
+}
+
+.reduction img {
+    width: 130px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+
+
+.InforPersonnel h3 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.maps {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    gap: 30px;
+
+}
+
+.maps img {
+    width: 30px;
+    height: 40px;
+}
+
+.maps p {
+    color: white;
+}
+
+.courrier {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+    gap: 20px;
+}
+
+.courrier img {
+    width: 50px;
+    height: 40px;
+}
+
+.courrier p {
+    margin-top: 15px;
+    color: white;
+}
+
+.numerotel {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+    gap: 20px;
+}
+
+.numerotel img {
+    width: 50px;
+    height: 40px;
+}
+
+.numerotel p {
+    margin-top: 15px;
+    color: white;
+}
+
+.facebook {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.facebook img {
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.facebook #face {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.SC a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+.lvr a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+.change a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+.RT a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.Pai a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+.fed a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+footer {
+    position: relative;
+}
+
+footer .service {
+    position: absolute;
+    margin-left: 0%;
+    margin-bottom: 100px;
+}

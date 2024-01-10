@@ -1,0 +1,277 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #123;
+    position: relative;
+}
+
+.div1 img {
+    position: absolute;
+    top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.S1 a {
+    display: block;
+    position: absolute;
+    top: 200px;
+    margin-left: 130px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix1 {
+    position: absolute;
+    top: 20px;
+    margin-left: 20px;
+    color: red;
+    text-decoration-line: line-through;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+.prix2 {
+    position: absolute;
+    background-color: gold;
+    border-radius: 9px;
+    top: 20px;
+    margin-left: 140px;
+    color: red;
+
+}
+
+
+.div2 img {
+    position: absolute;
+    top: 20px;
+    margin-left: 340px;
+    width: 200px;
+    height: 200px;
+}
+
+.S2 a {
+    display: block;
+    position: absolute;
+    top: 200px;
+    margin-left: 450px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix3 {
+    position: absolute;
+    top: 20px;
+    margin-left: 340px;
+    color: red;
+    text-decoration-line: line-through;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+.prix4 {
+    position: absolute;
+    background-color: gold;
+    border-radius: 9px;
+    top: 20px;
+    margin-left: 460px;
+    color: red;
+
+}
+
+
+.div3 img {
+    position: absolute;
+    top: 20px;
+    margin-left: 630px;
+    width: 200px;
+    height: 200px;
+}
+
+.S3 a {
+    display: block;
+    position: absolute;
+    top: 200px;
+    margin-left: 740px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix5 {
+    position: absolute;
+    top: 20px;
+    margin-left: 650px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+
+.div4 img {
+    position: absolute;
+    top: 20px;
+    margin-left: 940px;
+    width: 200px;
+    height: 200px;
+}
+
+.S4 a {
+    display: block;
+    position: absolute;
+    top: 200px;
+    margin-left: 1050px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix6 {
+    position: absolute;
+    top: 20px;
+    margin-left: 1025px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+
+.div5 img {
+    position: absolute;
+    top: 290px;
+    margin-left: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.S5 a {
+    display: block;
+    position: absolute;
+    top: 470px;
+    margin-left: 130px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix7 {
+    position: absolute;
+    top: 300px;
+    margin-left: 20px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+.div6 img {
+    position: absolute;
+    top: 290px;
+    margin-left: 340px;
+    width: 200px;
+    height: 200px;
+}
+
+.S6 a {
+    display: block;
+    position: absolute;
+    top: 470px;
+    margin-left: 450px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix8 {
+    position: absolute;
+    top: 290px;
+    margin-left: 340px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+
+.div7 img {
+    position: absolute;
+    top: 290px;
+    margin-left: 630px;
+    width: 200px;
+    height: 200px;
+}
+
+.S7 a {
+    display: block;
+    position: absolute;
+    top: 470px;
+    margin-left: 740px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix9 {
+    position: absolute;
+    top: 290px;
+    margin-left: 650px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+.div8 img {
+    position: absolute;
+    top: 290px;
+    margin-left: 940px;
+    width: 200px;
+    height: 200px;
+}
+
+.S8 a {
+    display: block;
+    position: absolute;
+    top: 470px;
+    margin-left: 1055px;
+    text-decoration: none;
+    background-color: rgb(111, 111, 142);
+    border-radius: 8px;
+    color: aqua;
+}
+
+.prix10 {
+    position: absolute;
+    top: 290px;
+    margin-left: 1025px;
+    color: red;
+    background-color: gold;
+    border-radius: 9px;
+}
+
+
+div .p1 {
+    position: absolute;
+    top: 560px;
+    margin-left: 300px;
+}
+
+div .p1 a {
+    width: 60px;
+    height: 35px;
+    text-decoration: none;
+    color: blueviolet;
+
+}

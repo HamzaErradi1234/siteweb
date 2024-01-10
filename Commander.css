@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(38, 76, 115);
+    position: relative;
+}
+
+h5 {
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+legend {
+    font-size: 20px;
+    color: white;
+}
+
+fieldset {
+
+    width: 340px;
+    height: 190px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+label {
+    color: aliceblue;
+}
+
+.d1 {
+    display: flex;
+    gap: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#in1 {
+    border-radius: 3px;
+    border-color: white;
+}
+
+#in1:invalid {
+    background-color: rgba(203, 56, 56, 0.671);
+}
+
+#in1:valid {
+    background-color: rgba(0, 128, 0, 0.523);
+}
+
+.d2 {
+    display: flex;
+    gap: 17px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#in2 {
+    border-radius: 3px;
+    border-color: white;
+}
+
+#in2:invalid {
+    background-color: rgba(203, 56, 56, 0.671);
+}
+
+#in2:valid {
+    background-color: rgba(0, 128, 0, 0.523);
+}
+
+.d3 {
+    display: flex;
+    gap: 30px;
+    margin-left: 20px;
+}
+
+.d3 #b1 {
+    width: 45px;
+    background-color: green;
+    border-radius: 8px;
+    border-color: white;
+
+}
+
+.d3 #b2 {
+
+    background-color: red;
+    border-radius: 8px;
+    border-color: white;
+}
+
+.Erreur {
+    position: absolute;
+    color: red;
+    margin-left: 300px;
+    margin-top: 60px;
+
+}
+
+.message {
+    margin-left: 25%;
+    margin-top: 25%;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 25px;
+}
